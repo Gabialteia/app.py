@@ -1,0 +1,15 @@
+nome = 'Gabriela'
+idade = 21
+
+print(f'Meu nome é {nome} e tenho {idade} anos')
+
+print('G')
+print('A')
+print('B')
+print('R')
+print('I')
+print('E')
+print('L')
+print('A\n')
+
+print('G','A','B','R','I','E','L','A',sep='\n')
